@@ -1,0 +1,38 @@
+root_dir: 
+
+# task: FLD001
+# task: FLD002
+# task: GEO006
+# task: GEO008 
+task: GEO009
+# task: GRP005
+# task: NUM009
+# task: KRS001
+# task: SET001
+
+model_id: claude-3-5-sonnet-20241022
+
+
+api_key: 
+base_url:
+
+
+use_system_prompt: True
+
+batch_size: 20
+concurrency: 200
+
+n: 1
+
+
+price_file: 
+
+
+use_error: True
+
+method_id: pipeline2 
+temperature: 0.3
+
+version: problems_brief
+solution_id: solutions-brief
+
